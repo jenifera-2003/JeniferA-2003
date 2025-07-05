@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Jenifer
 
 postgraduated Computer Science Student
-<img align="right" width="370" height="290" src="C:\Users\Admin\Pictures\Saved Pictures\computer-work.gif">
+<img align="right" width="370" height="290" src="https://tenor.com/view/computer-work-online-gif-14640055">
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on with team 
