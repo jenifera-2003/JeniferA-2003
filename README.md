@@ -8,6 +8,5 @@ postgraduated Computer Science Student
 - 💞️ I’m looking to collaborate on with team 
 - 📫 How to reach me :
 <br/>
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](ajenifer496@gmail.com)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style-for-the-badge&logo-twitter&logoColor-white"/>](https://x.com/Jenijenifer070)
 [<img src="https://img-shields.io.badge/LinkedIn-0077B5?style=for-the-badge&logo-linkedin&logoColor-white"/>](https://www.linkedin.com/in/jenifer-antonimuthu07/)
