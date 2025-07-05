@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Jenifer
 
 postgraduated Computer Science Student
-<img align="right" width="370" height="290" src="https://www.google.com/search?q=a+girl+working+in+laptop+animated+gif&sca_esv=421ba18e911069c2&rlz=1C1YTUH_enIN1034IN1034&udm=2&biw=1242&bih=583&sxsrf=AE3TifNsbk2JxPQ7q-yZfs1wGJibYSTCCw%3A1751689518740&ei=LqloaOv-LJqd4-EPyru9qQk&ved=0ahUKEwjrzZX876SOAxWazjgGHcpdL5UQ4dUDCBE&uact=5&oq=a+girl+working+in+laptop+animated+gif&gs_lp=EgNpbWciJWEgZ2lybCB3b3JraW5nIGluIGxhcHRvcCBhbmltYXRlZCBnaWZIrhJQhwlY6g9wAXgAkAEAmAG6AaAB6wOqAQMwLjO4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB4cBsgcAuAcAwgcAyAcA&sclient=img#vhid=tsOnefSNYqyGmM&vssid=mosaic">
+<img align="right" width="370" height="290" src="C:\Users\Admin\Pictures\Saved Pictures\computer-work.gif">
 
 
 
