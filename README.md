@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenifera-2003&label=Profile%20views&color=0e75b6&style=flat" alt="jenifera-2003" /> </p>
 
+<img align="right" width="370" height="290" src="https://tenor.com/view/computer-work-online-gif-14640055">
+
 - 🔭 I’m currently working on **Frontend projects**
 
 - 🌱 I’m currently learning **Backend and DSA**
