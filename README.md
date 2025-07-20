@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, This is Jenifer</h1>
 <h3 align="center">I'm a frontend developer</h3>
 
-<p align="left"> <img src="" height="290" width="370" alt="coding gif" /> </p>
+<p align="left"> <img src=""/> </p>
 
-<img align="right" width="370" height="290" src="https://tenor.com/view/computer-work-online-gif-14640055">
+<img align="right" width="370" height="290" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Flaptop-gif%2F929570112139%2F&psig=AOvVaw2CEtrNyVKM8QcNmPYd84nG&ust=1753074629098000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCOpYfWyo4DFQAAAAAdAAAAABAE">
 
 - 🔭 I’m currently working on **Frontend projects**
 
