@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, This is Jenifer</h1>
 <h3 align="center">I'm a frontend developer</h3>
+<img align="right" src=" ![computer-work](https://github.com/user-attachments/assets/b5d824ab-c237-4c7a-9aea-9d79490487cb)">
 
 ![computer-work](https://github.com/user-attachments/assets/b5d824ab-c237-4c7a-9aea-9d79490487cb)
 
@@ -9,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **team members**
 
-- 📫 How to reach me **ajenifer496@gmail.com**
+- 📫 How to reach me [ajenifer496@gmail.com](mailto:ajenifer496@gmail.com)
 
 - ⚡ Fun fact **🏸 I love playing badminton and enjoy strength training sessions.**
 
