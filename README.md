@@ -1,8 +1,7 @@
-![computer-work](https://github.com/user-attachments/assets/b5d824ab-c237-4c7a-9aea-9d79490487cb)<h1 align="center">Hi 👋, This is Jenifer</h1>
+<h1 align="center">Hi 👋, This is Jenifer</h1>
 <h3 align="center">I'm a frontend developer</h3>
 
-<img align="right" width="370" height="290" src="![computer-work](https://github.com/user-attachments/assets/c7f7b6ef-2003-4147-acd7-921a6ca2f6d5)
-">
+<img align="right" width="370" height="290" src="![computer-work](https://github.com/user-attachments/assets/b5d824ab-c237-4c7a-9aea-9d79490487cb)">
 
 - 🔭 I’m currently working on **Frontend projects**
 
