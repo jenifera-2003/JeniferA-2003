@@ -1,9 +1,6 @@
-![typing-girl](https://github.com/user-attachments/assets/e32d49d3-e285-40a8-a2a9-a8afe86389df)<h1 align="center">Hi 👋, This is Jenifer</h1>
+<h1 align="center">Hi 👋, This is Jenifer</h1>
 <h3 align="center">I'm a frontend developer</h3>
 
-
-
-![computer-work](https://github.com/user-attachments/assets/b5d824ab-c237-4c7a-9aea-9d79490487cb)
 ![typing-girl](https://github.com/user-attachments/assets/8e3678d5-c8b1-497b-9c43-af2db58766fa)
 
 - 🔭 I’m currently working on **Frontend projects**
