@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Jenifer</h1>
 <h3 align="center">I'm a Software developer</h3>
 
-- 📫 How to reach me [ajenifer496@gmail.com](mailto:ajenifer496@gmail.com)
+📫 How to reach me [ajenifer496@gmail.com](mailto:ajenifer496@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
