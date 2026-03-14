@@ -1,17 +1,8 @@
 <h1 align="center">Hi 👋, This is Jenifer</h1>
-<h3 align="center">I'm a frontend developer</h3>
-
-![typing-girl](https://github.com/user-attachments/assets/8e3678d5-c8b1-497b-9c43-af2db58766fa)
-
-- 🔭 I’m currently working on **Frontend projects**
-
-- 🌱 I’m currently learning **Backend and DSA**
-
-- 👯 I’m looking to collaborate on **team members**
+<h3 align="center">I'm a Software developer</h3>
 
 - 📫 How to reach me [ajenifer496@gmail.com](mailto:ajenifer496@gmail.com)
 
-- ⚡ Fun fact **🏸 I love playing badminton and enjoy strength training sessions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
