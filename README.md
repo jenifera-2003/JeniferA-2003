@@ -1,7 +1,7 @@
 
-<h1 align="center">"The supreme art of war is to subdue the enemy without fighting."</h1>
-<h1 align="center">Hi 👋, This is Jenifer</h1>
-<h3 align="center">I'm a Software developer</h3>
+<h5 align="center">"The supreme art of war is to subdue the enemy without fighting."- Sun Tzu </h5>
+<h5 align="center">Hi 👋, This is Jenifer</h5>
+<h5 align="center">I'm a Software developer</h5>
 
 📫 How to reach me [ajenifer496@gmail.com](mailto:ajenifer496@gmail.com)
 
